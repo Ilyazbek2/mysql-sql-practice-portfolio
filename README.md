@@ -1,5 +1,5 @@
-# mysql-sql-practice-portfolio
-MySQL SQL Practice Portfolio
+
+# MySQL SQL Practice Portfolio
 
 A collection of SQL exercises and solutions completed while practicing MySQL on SQL Academy. This project demonstrates practical SQL skills for data analytics, database querying, and problem-solving.
 
