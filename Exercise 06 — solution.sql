@@ -1,5 +1,4 @@
-SELECT
-    r.owner_id AS owner_id,
+SELECT r.owner_id AS owner_id,
     SUM(res.total) AS total_earn
 FROM Rooms AS r
 JOIN Reservations AS res
