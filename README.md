@@ -21,11 +21,6 @@ GROUP BY and HAVING
 
 Aggregate functions: COUNT, SUM, MAX
 
-Subqueries
-
 DISTINCT values
 
 NULL handling
-
-NOT EXISTS
-
