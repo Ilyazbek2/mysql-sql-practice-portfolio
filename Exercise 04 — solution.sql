@@ -1,5 +1,4 @@
-SELECT
-    e.emp_name AS emp_name,
+SELECT e.emp_name AS emp_name,
     COUNT(t.id) AS task_count
 FROM Employee AS e
 LEFT JOIN Tasks AS t
