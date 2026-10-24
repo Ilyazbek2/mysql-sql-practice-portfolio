@@ -29,4 +29,3 @@ NULL handling
 
 NOT EXISTS
 
-Data aggregation and analysis
